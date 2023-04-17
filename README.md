@@ -8,3 +8,5 @@ A voting machine for 3 candidates using state machine in Verilog
 
 <h2>Result</h2>
 The result is shown using the testbench and the counter code on EDA Playground and the resulting EP wave is produced on simulation.
+
+[Link to Results](https://github.com/abhinav9629/Voting-Machine-Verilog/blob/92cdcacaf131285df1b818523a52bd28326d4209/results/results_epwave.jpg)
